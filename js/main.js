@@ -6,7 +6,7 @@ requirejs.config({
             "../bower_components/jquery/dist/jquery.min"
         ],
 
-        Controller: "Controller",
+        Controller: "Controller2",
 
         md5: "crypt/md5",
         sha3: "crypt/sha3"
